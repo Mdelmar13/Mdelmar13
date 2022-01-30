@@ -1,8 +1,5 @@
-- 👋 Hey! What's up!? I'm Mike!
-- 👀 I LOVE making music and programming!
-- 🌱 I am learning everything I can about programming in front end/back end!
-- 💞️ I wish to collab for my first project of a blog site and learn from fellow programmers
-- 📫 You can reach me here by DM or send me an email@: delmar_352@yahoo.com!
+-I'm a new and studying programmer, currently working towards becoming a full-stack developer. I would love to network with anyone willing to learn along side me
+or potentially be mentored by someone who has more experience than I do. Thank you for taking time to read this short Bio! Have a great day!
 
 <!---
 Mdelmar13/Mdelmar13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
